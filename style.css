@@ -1,0 +1,15 @@
+.jumbotron {
+    text-align: center;
+    background:none;
+}
+
+.sectionLight {
+    
+    background-color: #eceeef;
+    padding: 2em;
+    
+}
+
+img {
+    width: 50%;
+}
