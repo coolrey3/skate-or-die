@@ -10,6 +10,44 @@
     
 }
 
-.sectionDark img {
-    width: 20%;
+
+.sectionDark  {
+    background-color: #cccccc;
+    padding: 2rem
+}
+
+.coolStuffWrapper {
+    
+    margin-top: 20px; 
+}
+
+button.coolStuff-btn {
+    
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+img.img-deck {
+    
+    display: block;
+    margin: auto;
+}
+h5.modal-title {
+    
+    margin: auto;
+}
+
+.modal-header .close {
+    margin-left: -1rem;
+}
+    
+.modalFormWrapper {
+    
+}
+
+.img-center {
+    display: block;
+    margin: auto;
 }
