@@ -4,10 +4,10 @@
 }
 
 .sectionLight {
-    
+
     background-color: #eceeef;
     padding: 2em;
-    
+
 }
 
 
@@ -17,34 +17,35 @@
 }
 
 .coolStuffWrapper {
-    
-    margin-top: 20px; 
+
+    margin-top: 20px;
 }
 
 button.coolStuff-btn {
-    
+
     background-color: red;
     color: #ffffff;
     display: block;
     margin: auto;
+    margin-top: 3%;
 }
 
 img.img-deck {
-    
+
     display: block;
     margin: auto;
 }
 h5.modal-title {
-    
+
     margin: auto;
 }
 
 .modal-header .close {
     margin-left: -1rem;
 }
-    
+
 .modalFormWrapper {
-    
+
 }
 
 .img-center {
