@@ -16,6 +16,12 @@
     padding: 2rem
 }
 
+.footer {
+
+  background-color: darkgray;
+  /* height: 200px; */
+}
+
 .coolStuffWrapper {
 
     margin-top: 20px;
@@ -51,4 +57,13 @@ h5.modal-title {
 .img-center {
     display: block;
     margin: auto;
+}
+
+.container-fluid {
+  /* margin: 0px; */
+  padding: 0px;
+}
+
+.row {
+  margin: 0;
 }
