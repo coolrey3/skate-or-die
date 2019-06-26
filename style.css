@@ -4,10 +4,10 @@
 }
 
 .sectionLight {
-    
+
     background-color: #eceeef;
     padding: 2em;
-    
+
 }
 
 
@@ -16,35 +16,42 @@
     padding: 2rem
 }
 
+.footer {
+
+  background-color: darkgray;
+  /* height: 200px; */
+}
+
 .coolStuffWrapper {
-    
-    margin-top: 20px; 
+
+    margin-top: 20px;
 }
 
 button.coolStuff-btn {
-    
+
     background-color: red;
     color: #ffffff;
     display: block;
     margin: auto;
+    margin-top: 3%;
 }
 
 img.img-deck {
-    
+
     display: block;
     margin: auto;
 }
 h5.modal-title {
-    
+
     margin: auto;
 }
 
 .modal-header .close {
     margin-left: -1rem;
 }
-    
+
 .modalFormWrapper {
-    
+
 }
 
 .img-center {
@@ -52,6 +59,7 @@ h5.modal-title {
     margin: auto;
 }
 
+<<<<<<< HEAD
 button.btnCenter {
     
     margin-top: 20px;
@@ -60,3 +68,13 @@ button.btnCenter {
     
     
 }
+=======
+.container-fluid {
+  /* margin: 0px; */
+  padding: 0px;
+}
+
+.row {
+  margin: 0;
+}
+>>>>>>> 2ce9b4496b0a87ea8fef56b786820248314254b2
