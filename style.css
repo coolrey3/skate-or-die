@@ -51,3 +51,12 @@ h5.modal-title {
     display: block;
     margin: auto;
 }
+
+button.btnCenter {
+    
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 50%;
+    
+    
+}
