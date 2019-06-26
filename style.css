@@ -59,6 +59,16 @@ h5.modal-title {
     margin: auto;
 }
 
+<<<<<<< HEAD
+button.btnCenter {
+    
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width: 50%;
+    
+    
+}
+=======
 .container-fluid {
   /* margin: 0px; */
   padding: 0px;
@@ -67,3 +77,4 @@ h5.modal-title {
 .row {
   margin: 0;
 }
+>>>>>>> 2ce9b4496b0a87ea8fef56b786820248314254b2
